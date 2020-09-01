@@ -1,5 +1,5 @@
 /*
-    mongodb+srv://jlgarcia:HakunaMatata.01$@cluster0.g86nl.mongodb.net/cafe
+    
  */
 const express = require('express');
 
