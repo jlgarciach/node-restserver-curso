@@ -41,3 +41,5 @@ process.env.URLDB = urlDB;
 */
 
 process.env.CLIENT_ID = process.env.CLIENT_ID || '628706711100-41vc7afba7ti6k7hu563qqkmtbq11qpq.apps.googleusercontent.com';
+
+/* agregue la variable de entorno CLIENT_ID en Heroku para probar si ahora fuciona la App en producción*/
